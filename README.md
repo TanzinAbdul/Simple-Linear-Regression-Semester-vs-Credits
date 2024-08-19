@@ -38,9 +38,9 @@ Completed Credits: The output label.
 After training the model, you'll visualize the relationship between the number of semesters and the credits completed, as well as the model's predictions.
 
 5. **📝 Project Structure**<br>
-   simple_linear_regression.ipynb: The Jupyter Notebook containing the full project code and explanations.
-   csv file contains the dataset.
-   README.md: This file.
+   Simple Linear Regression.ipynb: The Jupyter Notebook containing the full project code and explanations.<br>
+   Simple Linear regression.csv file: contains the dataset.<br>
+   README.md: This file.<br>
 
 6. **🤝 Contributing**<br>
    If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
