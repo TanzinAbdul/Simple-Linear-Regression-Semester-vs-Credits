@@ -22,32 +22,31 @@ To run this project, you'll need:
 - Jupyter Notebook
 - Basic knowledge of Python and Machine Learning
 
-### Installation
+### Tutorial
 
-1. **Clone the repository:(or you can downlod and run manually)**
+1. **Clone the repository:(or you can downlod and run manually on jupyter)**
 
    ```bash
    git clone https://[github.com/your-username/simple-linear-regression-credits.git
    cd simple-linear-regression-credits](https://github.com/TanzinAbdul/Simple-Linear-Regression-Semester-vs-Credits)
 2. **📊 Dataset**
-The dataset contains two columns:
-
-Number of Semesters: The input feature.
+   The dataset contains two columns:<br>
+Number of Semesters: The input feature.<br>
 Completed Credits: The output label.
 
-3. **🔍 Visualization**
-   After training the model, you'll visualize the relationship between the number of semesters and the credits completed, as well as the model's predictions.
+4. **🔍 Visualization**<br>
+After training the model, you'll visualize the relationship between the number of semesters and the credits completed, as well as the model's predictions.
 
-4. **📝 Project Structure**
+5. **📝 Project Structure**<br>
    simple_linear_regression.ipynb: The Jupyter Notebook containing the full project code and explanations.
-   data/: Directory containing the dataset.
+   csv file contains the dataset.
    README.md: This file.
 
-5. **🤝 Contributing**
+6. **🤝 Contributing**<br>
    If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
 
-6. **🛡️ License**
+7. **🛡️ License**<br>
  (c) all rights reserved 2024
 
-7. **🎉 Acknowledgments**
+8. **🎉 Acknowledgments**<br>
    Thanks for checking out this project! I hope it helps you get started on your Machine Learning journey.
